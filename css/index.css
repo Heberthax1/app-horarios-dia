@@ -1,0 +1,23 @@
+body{
+    background-color: #29B6F6;
+}
+
+.container{
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+#header{
+    color: #FFF;
+}
+
+#mudanca-info{
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px;
+}
+
+#footer{
+    color: #fff;
+}
